@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @aeozyfe
-- 👀 I’m interested in kamu yang baca😌🥀
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on github.com
-- 📫 How to reach me alsy9cs@gmail.com
-
+- 👋 Hai, saya @aeozyfe
+- 💕 Saya tertarik dengan kamu yang baca😌🥀
+- 😎 Saat ini saya sedang belajar...
+- 🤝🏻 Saya ingin berkolaborasi di github.com
+- 💌 Bagaimana menghubungi saya alsy9cs@gmail.com
 <!---
 aeozyfe/aeozyfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
