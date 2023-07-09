@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aeozyfe
-- 👀 I’m interested in ...
+- 👀 I’m interested in kamu yang baca😌🥀
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on grils 
+- 💞️ I’m looking to collaborate on github.com
 - 📫 How to reach me alsy9cs@gmail.com
 
 <!---
